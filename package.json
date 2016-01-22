@@ -1,0 +1,27 @@
+{
+  "name": "array-sum",
+  "version": "1.0.0",
+  "description": "Returns sum of contents of number array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/array-sum.git"
+  },
+  "keywords": ["array", "sum", "get-sum", "add"],
+  "author": "Vikram <vikramcse.10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/array-sum/issues"
+  },
+  "homepage": "https://github.com/vikramcse/array-sum#readme",
+  "dependencies": {
+    "what-type": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
